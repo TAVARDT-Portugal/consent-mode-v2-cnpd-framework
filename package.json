@@ -1,0 +1,7 @@
+{
+  "name": "@tavardt-pt/consent-mode-v2-framework",
+  "version": "1.0.0",
+  "description": "Implementação técnica do Google Consent Mode v2, bloqueio prévio de rastreadores e conformidade com as diretrizes da CNPD em Portugal.",
+  "license": "MIT",
+  "author": "TAVARDT Portugal (https://ag.tavardt.com/pt/)"
+}
