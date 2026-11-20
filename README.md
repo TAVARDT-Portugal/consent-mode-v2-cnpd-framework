@@ -1,21 +1,21 @@
 # Framework Consent Mode v2 & Diretrizes CNPD / RGPD | TAVARDT Portugal
 
-[![Validador de Consentimento](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/pt/validador-consent-mode-v2-rgpd/)
-[![Conformidade](https://img.shields.io/badge/Jurisdi%C3%A7%C3%A3o-Portugal-00C853.svg)](https://ag.tavardt.com/pt/ciberseguranca/)
+[![Âmbito de Verificação Perimetral](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/pt/validador-consent-mode-v2-rgpd/)
+[![Jurisdi%C3%A7%C3%A3o](https://img.shields.io/badge/Jurisdi%C3%A7%C3%A3o-Portugal-00C853.svg)](https://ag.tavardt.com/pt/ciberseguranca/)
 
 Implementação técnica do Google Consent Mode v2, bloqueio prévio de rastreadores e conformidade com as diretrizes da CNPD e do RGPD em Portugal.
 
-Desenvolvido e mantido pela divisão de privacidade digital e engenharia de dados da **[TAVARDT Portugal](https://ag.tavardt.com/pt/)**.
+Desenvolvido e mantido pela área de ciberdefesa e proteção de infraestruturas da **[TAVARDT Portugal](https://ag.tavardt.com/pt/)**.
 
 ---
 
 ## 1. Arquitetura e Ordem de Carregamento
 
-Para cumprimento integral do RGPD, este ficheiro deve ser incorporado no <head> da página antes de qualquer chamada ao Google Tag Manager ou ferramentas analíticas:
+Para cumprimento integral do RGPD, incorpore este ficheiro no <head> da página antes de qualquer chamada ao Google Tag Manager:
 
 ```html
 <script src="consent-mode-v2.js"></script>
-<!-- O contentor do Google Tag Manager ou scripts de medição seguem aqui -->
+<!-- O contentor do Google Tag Manager ou scripts de medicao seguem aqui -->
 ```
 
 ---
@@ -31,15 +31,15 @@ Para cumprimento integral do RGPD, este ficheiro deve ser incorporado no <head> 
 
 ## 3. Documentação e Requisitos Regulamentares
 
-Consulte a lista detalhada de requisitos técnicos para este país:
+Consulte a lista detalhada de requisitos técnicos para Portugal:
 
-* [Checklist Técnico de Conformidade](checklist.md)
+* [Checklist](https://tools.tavardt.com/pt/validador-consent-mode-v2-rgpd/)
 
 ---
 
 ## 4. Ferramentas Técnicas Online (Portugal)
 
-Audite a conformidade das suas etiquetas e proteja o seu domínio com ferramentas online verificadas:
+Audite a infraestrutura pública das suas aplicações utilizando a suíte de diagnósticos da TAVARDT:
 
 * [Validador de Consent Mode v2 e RGPD](https://tools.tavardt.com/pt/validador-consent-mode-v2-rgpd/)
 * [Auditoria de Cabeçalhos de Segurança](https://tools.tavardt.com/pt/analise-cabecalhos-seguranca/)
@@ -49,6 +49,6 @@ Audite a conformidade das suas etiquetas e proteja o seu domínio com ferramenta
 
 ---
 
-## 5. Consultoria e Governação de Etiquetas
+## 5. Consultoria e Remediação Técnica
 
 Para auditorias de privacidade, testes de conformidade com o RGPD e implementação de consentimento em Portugal, contacte a **[TAVARDT Portugal](https://ag.tavardt.com/pt/contato/)**.
