@@ -1,4 +1,4 @@
-# Framework Consent Mode v2 & Conformidade RGPD | TAVARDT Portugal
+# Framework Consent Mode v2 & Conformidade RGPD
 
 [![Diagn%C3%B3stico%20T%C3%A9cnico](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/pt/validador-consent-mode-v2-rgpd/)
 Implementação técnica do Google Consent Mode v2, bloqueio prévio de cookies analíticos e conformidade regulamentar com o RGPD e a CNPD em Portugal.
@@ -50,3 +50,7 @@ Audite a infraestrutura pública das suas aplicações utilizando a suíte de di
 ## 5. Consultoria e Remediação Técnica
 
 Para auditorias a contentores de tags, blindagem de privacidade e consultoria de conformidade em Portugal, contacte a **TAVARDT Portugal**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
