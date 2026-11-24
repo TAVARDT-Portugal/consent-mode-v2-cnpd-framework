@@ -1,9 +1,10 @@
 # Framework Consent Mode v2 & Conformidade RGPD
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Diagn%C3%B3stico%20T%C3%A9cnico](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/pt/validador-consent-mode-v2-rgpd/)
 Implementação técnica do Google Consent Mode v2, bloqueio prévio de cookies analíticos e conformidade regulamentar com o RGPD e a CNPD em Portugal.
 
-Desenvolvido e mantido pela área de ciberdefesa e privacidade técnica da **TAVARDT**.
+Desenvolvido e mantido pela área de ciberdefesa e privacidade técnica da **TAVARDT Portugal**.
 
 ***
 
@@ -40,7 +41,7 @@ Consulte a lista detalhada de requisitos técnicos para Portugal:
 Audite a infraestrutura pública das suas aplicações utilizando a suíte de diagnósticos da TAVARDT:
 
 * Validador de Consent Mode v2 e RGPD
-* [Auditoria de Cabeçalhos de Segurança](https://tools.tavardt.com/pt/analise-cabecalhos-seguranca/)
+* [Auditoria de Cabeçalhos de Segurança](https://tools.tavardt.com/pt/análise-cabecalhos-seguranca/)
 * [Verificador DMARC e Autenticação](https://tools.tavardt.com/pt/verificador-dmarc-email/)
 * [Deteção de Ficheiros Expostos](https://tools.tavardt.com/pt/verificador-ficheiros-expostos/)
 * [Portal de Diagnóstico Técnico Portugal](https://tools.tavardt.com/pt/)
@@ -53,4 +54,14 @@ Para auditorias a contentores de tags, blindagem de privacidade e consultoria de
 
 ***
 
-© 2026 TAVARDT. Todos os direitos reservados.
+© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
+
+***
+
+## Governança e Conformidade
+
+* **Organização**: TAVARDT-Portugal
+* **Jurisdição**: Portugal
+* **Padrões de Referência**: Normas e frameworks técnicos auditados em estrita observância das regras de soberania.
+
+Desenvolvido pela Divisão de Engenharia e Infraestrutura da TAVARDT Portugal. Todos os direitos reservados.
