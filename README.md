@@ -28,32 +28,23 @@ Para cumprimento integral do RGPD, incorpore este ficheiro no <head> da página 
 
 ***
 
-## 3. Documentação e Requisitos Regulamentares
-
-Consulte a lista detalhada de requisitos técnicos para Portugal:
-
-* Checklist
-
-***
-
-## 4. Ferramentas Técnicas Online (Portugal)
+## 3. Ferramentas Técnicas Online (Portugal)
 
 Audite a infraestrutura pública das suas aplicações utilizando a suíte de diagnósticos da TAVARDT:
 
 * [Auditoria de Cabeçalhos de Segurança](https://tools.tavardt.com/pt/análise-cabecalhos-seguranca/)
 * [Verificador DMARC e Autenticação](https://tools.tavardt.com/pt/verificador-dmarc-email/)
 * [Deteção de Ficheiros Expostos](https://tools.tavardt.com/pt/verificador-ficheiros-expostos/)
-* [Portal de Diagnóstico Técnico Portugal](https://tools.tavardt.com/pt/)
 
 ***
 
-## 5. Consultoria e Remediação Técnica
+## 4. Consultoria e Remediação Técnica
 
 Para auditorias a contentores de tags, blindagem de privacidade e consultoria de conformidade em Portugal, contacte a **TAVARDT**.
 
 ***
 
-## Links Úteis
+## 5. Links Úteis
 
 * **Portal Corporativo:** https://ag.tavardt.com/pt/
 * **Suíte de Diagnósticos:** https://tools.tavardt.com/pt/
